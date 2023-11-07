@@ -1,4 +1,4 @@
-package org.koreait;
+package org.korit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
